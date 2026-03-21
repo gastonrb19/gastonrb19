@@ -4,8 +4,9 @@ Hola, soy Gastón, un desarrollador de software con experiencia en diferentes te
 
 
 ## 🔗 Mis links
-[portfolio](https://gastonrb19.github.io/portafolio/)
-[linkedin](https://www.linkedin.com/in/gast%C3%B3n-rojas-barra-103b36386/)
+[Portafolio](https://gastonrb19.github.io/portafolio/)
+
+[Linkedin](https://www.linkedin.com/in/gast%C3%B3n-rojas-barra-103b36386/)
 
 
 ## Tecnologías Stack
