@@ -4,7 +4,7 @@ Hola, soy Gastón, un desarrollador de software con experiencia en diferentes te
 
 
 ## 🔗 Mis links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gastonrb19.github.io/portafolio/)
+[![portfolio](https://gastonrb19.github.io/portafolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/gast%C3%B3n-rojas-barra-103b36386/))
 
 
