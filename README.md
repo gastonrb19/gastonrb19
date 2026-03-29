@@ -19,6 +19,6 @@ Hola, soy Gastón, un desarrollador de software con experiencia en diferentes te
 
 
 ## Tecnologías más utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastonrb19&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastonrb19&layout=donut)](https://github.com/gastonrb19/github-readme-stats)
 ## Estadisticas en github
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gastonrb19&theme=shades-of-purple)](https://git.io/streak-stats)
