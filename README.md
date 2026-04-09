@@ -13,7 +13,7 @@ Hola, soy Gastón, un desarrollador de software con experiencia en diferentes te
 
 **Client:** React, React Native, Next.Js, Redux, TailwindCSS.
 
-**Server:** Node, Express, Nest.Js, Go, Sql, JWT.
+**Server:** Node, Express, Nest.Js, Python/FastApi, Sql, JWT.
 
 **Others:** Docker, Aws, Vim, Linux.
 
