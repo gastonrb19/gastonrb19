@@ -1,6 +1,6 @@
 # <Gastón Rojas/>
 
-Hola, soy Gastón, un desarrollador de software con experiencia en diferentes tecnologías. Mi stack principal es Node (Nest.js | Express.js) en el backend y React (Next.js | React native) en el frontend. 
+Hola, soy Gastón, un desarrollador de software con experiencia en diferentes tecnologías. Mi stack principal es Node (Nest.js | Express.js) en el backend y React (Next.js) en el frontend. 
 
 
 ## 🔗 Mis links
@@ -11,9 +11,11 @@ Hola, soy Gastón, un desarrollador de software con experiencia en diferentes te
 
 ## Tecnologías Stack
 
-**Client:** React, React Native, Next.Js, Redux, TailwindCSS.
+**Client:** React, Next.Js, Redux, ContextAPI, TailwindCSS.
 
-**Server:** Node, Express, Nest.Js, Python/FastApi, Sql, JWT.
+**Server:** Node, Express, Nest.Js, Python, Go, Sql, JWT.
+
+**Data:** PowerBI, PowerQuery.
 
 **Others:** Docker, Aws, Vim, Linux.
 
